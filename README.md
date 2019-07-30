@@ -3,7 +3,8 @@
 
 
 * 参考连接： 
-* 案例一：https://www.linuxidc.com/Linux/2017-06/144972.htm   实现再mysql服务的监控（本案例我已在虚拟机进行搭建学习）
+* 案例一：https://www.linuxidc.com/Linux/2017-06/144972.htm   实现再mysql服务的监控（本案例我已在虚拟机进行搭建学习)
+* grafana dashboard 的配置：https://www.jianshu.com/p/82abd86ef447
 * 案例2：https://myblog.qinxuewu.club/index.php/archives/38.html
 
 #### 案例一：
